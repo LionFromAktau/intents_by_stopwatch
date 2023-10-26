@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="input_second_count">Input Second Count</string>
+    <string name="say_hello">say hello</string>
+    <string name="explicit_intent">explicit intent</string>
+    <string name="implicit_intent">implicit intent</string>
+</resources>
